@@ -1,0 +1,9 @@
+{
+    "servers": [
+        {
+            "id": 2,
+            "connString": "mongodb://localhost:27017/fivem",
+            "db": "fivem"
+        }
+    ]
+}
